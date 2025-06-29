@@ -6,7 +6,7 @@
     <artifactId>xlmall</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>xlmall</name>
-    <description>聚合服务</description>
+    <description>商城系统聚合服务</description>
     <packaging>pom</packaging>
     <modules>
         <module>xlmall-ware</module>
